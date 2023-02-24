@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -121,6 +121,7 @@
       "track_widths": [
         0.0,
         0.254,
+        0.32,
         0.8
       ],
       "via_dimensions": [
@@ -384,7 +385,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "C:/Windows/System32/",
       "specctra_dsn": "",
       "step": "Solenoid valve.step",
       "vrml": ""
